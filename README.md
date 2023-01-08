@@ -1,6 +1,6 @@
 ### Hey there 👋
 
-In this diary, I share my journey as a 20 year old software engineer. My journal includes things such as what I've done, what I've learned, if I got something new going on, and much more. Feel free to leave a star on this repository.
+In this diary, I share my journey as a 20 year old software engineer. My journal includes things such as what I've done, what I've learned, if I got something new going on, and much more. Note: I won't write every day. There might be some files with only gifs. It means that I don't want to share what I did, or there isn't much to tell about it. Feel free to leave a star on this repository.
 
 #### Socials ⤵️
 
