@@ -1,3 +1,3 @@
-### ❄️ 4th of December 2023
+### ❄️ 4th of January 2023
 
 Another nice day. I continued with the deep learning about eslint and prettier in the morning. Furthermore, I didn't need to make many changes to my pull requests in the job. They stayed as they stayed. However, I did a lot of code reviews today and think I learned a lot from my colleagues. We had our estimation meeting today, which meant we got new tickets. I just started one of them and looking forward to continuing with it tomorrow. I also ate a Schinzel burger today for the first time; the taste was quite interesting. Now I'm going to finish the day learning more about husky and read a book afterward.
