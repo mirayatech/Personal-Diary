@@ -4,8 +4,8 @@ In this diary, I share my journey as a 20 year old software engineer. My journal
 
 #### Socials ⤵️
 
-<a href="https://www.twitter.com/mirayadev/"><img src ="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" width="80px"/></a> <a href="https://www.tiktok.com/@mirayatech"><img src ="https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white" width="73px" /></a> <a href="https://www.instagram.com/mirayatech/"><img src ="https://img.shields.io/badge/Instagram-9146FF?style=for-the-badge&logo=instagram&logoColor=white"  width="95px"  /></a>
-<a href="https://www.youtube.com/@mirayatech."><img src ="https://img.shields.io/badge/YouTube-E50914?style=for-the-badge&logo=youtube&logoColor=white"  width="80px"   /></a>
+<a href="https://www.twitter.com/mirayadev/"><img src ="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" width="80px"/></a> <a href="https://www.tiktok.com/@mirayatech"><img src ="https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white" width="73px" /></a> <a href="https://www.instagram.com/mirayatech/"><img src ="https://img.shields.io/badge/Instagram-9146FF?style=for-the-badge&logo=instagram&logoColor=white"  width="88px"  /></a>
+<a href="https://www.youtube.com/@mirayatech."><img src ="https://img.shields.io/badge/YouTube-E50914?style=for-the-badge&logo=youtube&logoColor=white"  width="76px"   /></a>
 
 #
 
